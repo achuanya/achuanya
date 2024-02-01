@@ -18,8 +18,6 @@
 - Email: <haibao1027@gmail.com>
 - Github：[achuanya][2]
 
-[<img src="https://ghchart.rshah.org/7db9de/achuanya" alt="achuanya's Github chart" />][3]
-
 ## 博客进程
 
 * 2018-08-30 fork 云计算大佬 孔令贤的 Jekyll 模板，开始接触个人博客
@@ -28,7 +26,6 @@
 * 2024-01-22 因原代码多端交互历史遗留问题，舍弃原有博客，fork fooleap blog
 * 2024-01-31 全站css、js图片等静态资源走腾讯 对象储存 COS
 * 2024-01-31 域名备案完成，由腾讯云 内容分发网络 CDN 全球加速
-
 
 [1]: https://lhasa.icu
 [2]: https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh-hans
