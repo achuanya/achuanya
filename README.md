@@ -9,7 +9,7 @@
 
 ## 博主
 
-<img class="my-photo" style="width:460px;height:300px;" src="https://cos.lhasa.icu/assets/images/my-photo.jpg_640">
+<img class="my-photo" style="width:600px;height:400px;" src="https://cos.lhasa.icu/assets/images/my-photo.jpg_640">
 
 千禧年小屁孩，代码、计算机纯属个人爱好，怀旧着，记录着 正在的发生美好往昔
 
