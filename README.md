@@ -7,7 +7,7 @@
 
 内容系本人学习、研究和总结，如有雷同，实属荣幸！
 
-<img class="my-photo" style="width:600px;height:400px;" src="https://cos.lhasa.icu/assets/images/my-photo.jpg_640">
+<img class="my-photo" style="width:600px;height:400px;" src="https://github.com/achuanya/achuanya/blob/main/my-photo.jpg">
 
 长途骑行小学生、野钓路亚、振出并继、古典乐、茶叶爱好者
 
