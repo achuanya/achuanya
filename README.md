@@ -12,7 +12,7 @@
 
 ## 博主
 
-![游钓四方的骑行照]({{ site.STYLEPICTURES_PATH}}/my-photo.jpg_640 "游钓四方的骑行照")
+![游钓四方的骑行照](https://cos.lhasa.icu/StylePictures/my-photo.jpg "游钓四方的骑行照")
 
 长途骑行小学生、野钓路亚、振出并继、古典乐、茶叶爱好者
 
@@ -20,7 +20,7 @@
 - Github：<a href="https://github.com/achuanya" target="_blank">achuanya</a>
 - 微信公众号：游钓四方的博客
 
-![游钓四方的微信公众号]({{ site.STYLEPICTURES_PATH}}/WechatPublicAccount.jpg "生活中从不缺少美，而是缺少发现美的眼睛")
+![游钓四方的微信公众号](https://cos.lhasa.icu/StylePictures/WechatPublicAccount.jpg "生活中从不缺少美，而是缺少发现美的眼睛")
 
 ## 博客进程
 
